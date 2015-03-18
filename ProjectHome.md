@@ -1,0 +1,1 @@
+Location Actions for Mac OS X utilises the Mac OS X Network Locations and responds to changes to this to trigger actions.
